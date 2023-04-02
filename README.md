@@ -1,0 +1,2 @@
+# Maze1
+labirintveryimportant
