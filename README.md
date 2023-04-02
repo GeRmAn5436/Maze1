@@ -1,2 +1,2 @@
 # Maze1
-labirintveryimportant
+I made a game in python
